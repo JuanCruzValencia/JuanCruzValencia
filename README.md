@@ -1,4 +1,4 @@
-### Hi there, I'm [Stefano](https://github.com/JuanCruzValencia)  👋
+### Hi there, I'm [Juan Cruz](https://github.com/JuanCruzValencia)  👋
 - ⚡ Software Developer
 - 🚀 Currently working freelance but looking for a place to enhance my skills
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/juan-cruz-valencia-vernengo-b91948241)
