@@ -13,7 +13,7 @@
 
 - **Back-end**
 
-  <code><img height="40" src="https://img.shields.io/badge/NodeJS-E0234E.svg?style=for-the-badge&logo=Node&logoColor=white" style="max-width:100%;"></code>
+  <code><img height="40" src="https://img.shields.io/badge/NodeJS-E0234E.svg?style=for-the-badge&logo=NodeJS&logoColor=white" style="max-width:100%;"></code>
    <code><img height="40" src="https://img.shields.io/badge/Express-2D3748.svg?style=for-the-badge&logo=Express&logoColor=white" style="max-width:100%;"></code>
  
 
